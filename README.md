@@ -5,4 +5,4 @@ shoto smartli >>> https://github.com/meuryalos/bms-software/releases/download/1/
 
 scaredsun 2022 >> https://github.com/meuryalos/bms-software/releases/download/1/Tian_Power.Energy.Storage.BMS.V1.5.68-15.zip
 
-SHOTO 2022 >> https://github.com/meuryalos/bms-software/releases/download/1/CH341SER.zip
+SHOTO 2020 >> https://github.com/meuryalos/bms-software/releases/download/1/CH341SER.zip
