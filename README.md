@@ -1,6 +1,6 @@
 list bms software management 
 
-Huawei 2024 (monitoring) >>> https://github.com/meuryalos/bms-software/releases/download/1/huawei.2024.rar
+Huawei U2,U5,B1,B3,C1 (monitoring) >>> https://github.com/meuryalos/bms-software/releases/download/1/huawei.2024.rar
 
 shoto smartli >>> https://github.com/meuryalos/bms-software/releases/download/1/2023-05-08.BMS.PLUS.Diagnose.UI.V1.634-75-3.rar
 
