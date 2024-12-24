@@ -1,0 +1,2 @@
+pin 1&4 ke A
+pin 2&5 ke B
